@@ -2,7 +2,7 @@ self.__uv$config = {
     prefix: '/embed/',
     
     // BARE SERVER
-    bare:'wss://deploy-wisp.vercel.app/',
+    bare:'https://bare.petezahgames.com/',
     
     encodeUrl: Ultraviolet.codec.xor.encode,
     decodeUrl: Ultraviolet.codec.xor.decode,
