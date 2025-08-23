@@ -2,7 +2,7 @@ self.__uv$config = {
     prefix: '/embed/',
     
     // BARE SERVER https://bare.petezahgames.com/  https://petezahserver.faizinternational.com.np/bare/
-    bare:'http://sunburst.sun.2of1.org/v/',
+    bare:'http://petezahgames.com/bare/',
     
     encodeUrl: Ultraviolet.codec.xor.encode,
     decodeUrl: Ultraviolet.codec.xor.decode,
