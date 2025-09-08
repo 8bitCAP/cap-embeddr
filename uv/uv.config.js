@@ -1,5 +1,5 @@
 self.__uv$config = {
-    prefix: '/embed/',
+    prefix: '/static/petezah/',
     
     // BARE SERVER https://bare.petezahgames.com/  https://petezahserver.faizinternational.com.np/bare/ 
     // bare:'https://petezahgames.com/bare/',
